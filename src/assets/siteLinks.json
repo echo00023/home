@@ -2,12 +2,12 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.xton.top/"
+    "link": "https://blog.want.cyou/"
   },
   {
     "icon": "Buffer",
-    "name": "图床",
-    "link": "https://tc.xton.top/"
+    "name": "CHAT",
+    "link": "https://chat.want.cyou/"
   },
   {
     "icon": "Book",
@@ -21,12 +21,12 @@
   },
   {
     "icon": "Comments",
-    "name": "朋友圈",
-    "link": "https://py.want.cyou/"    
+    "name": "Hello,world!",
+    "link": "https://xtonn.com/"    
   },
   {
     "icon": "Avianex",
     "name": "机场",
-    "link": "https://in.xtonc.site/"     
+    "link": "https://ap.xton.top/"     
   }
 ]
